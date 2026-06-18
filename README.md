@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pawan Asati 👋</h1>
-<h3 align="center">B.Tech Student @ IIIT Kalyani | Web Developer | Exploring AI Agents</h3>
+<h3 align="center">B.Tech Student @ IIIT K | Web Developer | Exploring AI Agents</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pawan-official&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
